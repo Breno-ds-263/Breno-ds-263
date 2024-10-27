@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá!👋
 
-<!--
-**Breno-ds-263/Breno-ds-263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Sou Breno Estudante e desenvolvedor back-end com foco em Java e Python.
+- 🌱 Atualmente estou aprendendo mais sobre sistemas robustos e integração com bancos de dados.
+- 🚀 Apaixonado por explorar novas tecnologias e sempre em busca de novos desafios.
 
-Here are some ideas to get you started:
+## ⚡ Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Conecte-se Comigo
+[![LinkedIn](www.linkedin.com/in/breno-santos-610248315)
