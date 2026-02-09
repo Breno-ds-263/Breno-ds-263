@@ -1,7 +1,6 @@
 # Olá!👋
 
 - 💻 Sou Breno Estudante e desenvolvedor back-end com foco em Java e Python.
-- 🌱 Atualmente estou aprendendo mais sobre sistemas robustos e integração com bancos de dados.
 - 🚀 Apaixonado por explorar novas tecnologias e sempre em busca de novos desafios.
 
 ## ⚡ Tecnologias e Ferramentas
